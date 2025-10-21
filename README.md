@@ -16,7 +16,7 @@ Technologies Used
 
 ---
 
- 🗂️ Project Structure
+ # 🗂️ Project Structure
 StudentManagementSystem.sln
 │
 ├── StudentManagementSystem.Web → UI (Controllers + Views)
