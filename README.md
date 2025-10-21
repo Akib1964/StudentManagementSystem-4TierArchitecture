@@ -1,4 +1,4 @@
-﻿ StudentManagementSystem-4TierArchitecture
+﻿# 🎓 StudentManagementSystem-4TierArchitecture
 
 A clean and modular ASP.NET Core MVC project demonstrating **4-Tier Architecture**:
 1. **Presentation Layer** – ASP.NET MVC (UI, Controllers)
@@ -8,7 +8,7 @@ A clean and modular ASP.NET Core MVC project demonstrating **4-Tier Architecture
 
 ---
 
-Technologies Used
+## 🧩 Technologies Used
 - ASP.NET Core MVC (.NET 6)
 - Entity Framework Core
 - SQL Server
@@ -16,7 +16,8 @@ Technologies Used
 
 ---
 
- # 🗂️ Project Structure
+## 🗂️ Project Structure
+
 StudentManagementSystem.sln
 │
 ├── StudentManagementSystem.Web → UI (Controllers + Views)
@@ -25,12 +26,12 @@ StudentManagementSystem.sln
 └── StudentManagementSystem.Entities → Models/Entities
 
 
+
+ 
 ---
 
- How to Run
+## 🧭 How to Run
 1. Clone the repository  
 2. Configure the connection string in `appsettings.json`  
 3. Run migrations:  
-Add-Migration InitialCreate
-Update-Database
 4. Start the project (`Ctrl + F5`)
